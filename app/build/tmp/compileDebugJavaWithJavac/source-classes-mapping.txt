@@ -1,0 +1,4 @@
+com/example/guessmachine/BuildConfig.java
+ com.example.guessmachine.BuildConfig
+com/example/guessmachine/MainActivity.java
+ com.example.guessmachine.MainActivity
